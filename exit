@@ -1,0 +1,11 @@
+                                           List of databases
+       Name       |         Owner         | Encoding |  Collate   |   Ctype    |   Access privileges   
+------------------+-----------------------+----------+------------+------------+-----------------------
+ my_database_xaai | my_database_xaai_user | UTF8     | en_US.UTF8 | en_US.UTF8 | 
+ postgres         | postgres              | UTF8     | en_US.UTF8 | en_US.UTF8 | 
+ template0        | postgres              | UTF8     | en_US.UTF8 | en_US.UTF8 | =c/postgres          +
+                  |                       |          |            |            | postgres=CTc/postgres
+ template1        | postgres              | UTF8     | en_US.UTF8 | en_US.UTF8 | =c/postgres          +
+                  |                       |          |            |            | postgres=CTc/postgres
+(4 rows)
+
